@@ -1,0 +1,4 @@
+{
+  "jcr:primaryType" : "cq:ClientLibraryFolder",
+  "categories" : ["terrabeata.page-content-cleanup"]
+}

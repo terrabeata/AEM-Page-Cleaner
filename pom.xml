@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <organization>
-  	<name>Adobe AEM Support</name>
-  	<url>http://daycare.day.com</url>
+  	<name>Terra Beata</name>
+  	<url>http://terrabeata.com</url>
   </organization>
   
   <properties>
@@ -67,7 +67,7 @@
   <artifactId>page-content-cleanup</artifactId>
   <version>1.0.1</version>
 
-  <name>Adobe Daycare Page Content Repair</name>
+  <name>Adobe Experience Manager Page Content Repair</name>
   <description>
   	A utility to repair jcr:content nodes of Pages. Searches for, and repairs, 
   	jcr:content of a Page that is of type nt:unstructured instead of cq:PageContent.

@@ -1,4 +1,4 @@
-package com.adobe.daycare.contentCleaner.servlet;
+package com.terrabeata.aem.contentCleaner.servlet;
 
 import java.io.IOException;
 import java.net.URLEncoder;
