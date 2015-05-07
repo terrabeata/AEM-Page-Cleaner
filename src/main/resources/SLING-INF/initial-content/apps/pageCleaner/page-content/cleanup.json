@@ -1,0 +1,5 @@
+{
+	"sling:resourceType":"daycare/pageClean",
+	"jcr:primaryType":"nt:folder",
+	"jcr:mixinTypes":["sling:Resource"]
+}

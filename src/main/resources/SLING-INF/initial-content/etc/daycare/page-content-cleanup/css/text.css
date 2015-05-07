@@ -1,0 +1,75 @@
+body{
+	font-family:Tahoma,Verdana,Arial,Helvetica,sans-serif;
+	color:#000;
+	font-size:13px;
+}
+
+pre,
+code {
+  font-family: "Lucida Console","Courier New",Courier,monospace;
+  font-size:12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+  text-align: left;
+  font-size: 42px;
+  letter-spacing: -2px;
+  color: #555;
+
+h2 {
+  text-align: center;
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+h4 {
+  font-size: 19px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+h6 {
+  font-size: 15px;
+}
+
+q {
+	font-size: 18px;
+}
+
+h2,h3,h4,h5,h6,
+.entry-list-title {
+  font-family:Tahoma,Verdana,Arial,Helvetica,sans-serif;
+  font-weight:bold;
+  letter-spacing:1px;
+  margin-bottom:3px;
+  margin-top:3px;
+  width:90%;
+}
+
+.entry-list-title {
+	font-size: 15px;
+}
+
+.page-footer {
+	text-align: center;
+	font-size: 10px;
+}
+
+
+
+

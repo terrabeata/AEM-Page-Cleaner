@@ -1,0 +1,109 @@
+body {
+  background: #CCC;
+  height: auto;
+  padding-bottom: 20px;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+
+hr {
+  border: 0 #ccc solid;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+h2 {
+  padding-top: 20px;
+}
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: disc;
+}
+
+li {
+  margin-left: 30px;
+}
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+  margin-bottom: 20px;
+}
+
+
+.placeholder {
+  border: 1px solid #666;
+  overflow: hidden;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.container_12 {
+  background-color: #fff;
+  margin-bottom: 20px;
+  margin-top: -20px;
+  -moz-box-shadow: 4px 4px 8px #000;
+  -webkit-box-shadow: 4px 4px 8px #000;
+  box-shadow: 4px 4px 8px #000;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.item_list {
+	margin: 20px;
+	display: block;	
+}
+
+.item_form {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.mast {
+  background: #333;
+  height: 55px;
+}
+
+.entry-list {
+  margin-top: 15px;	
+  display: block;
+}
+
+.entry-list-item {
+	margin-bottom: 15px;
+	display: block;
+}
+
+.page-footer {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  display: block;	
+}
+
+.quote {
+	display: block;
+	margin-bottom: 24px;
+}
